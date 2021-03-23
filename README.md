@@ -1,5 +1,5 @@
 # service-golang
-service-go
+
 go mod init github.com/sang0968991331/service-golang
 
 go get github.com/badoux/checkmail
